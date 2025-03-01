@@ -1,0 +1,16 @@
+.inner-container{
+    background:#eeeeff;
+    gap: 1.5rem;
+    padding: 2rem;
+    border-radius: 10px;
+    border:none;
+}
+.inner-container .secondaryText{
+    color:blue;
+}
+inner-container .button{
+    background-color: #007aff;
+    border-radius: opx;
+    box-shadow: var(--shadow);
+    
+}
